@@ -4,6 +4,8 @@
 
 This project is a User Registration Form built using HTML, CSS, and JavaScript. It features real-time input validation and displays a success message upon successful form submission.
 
+Github Page Link: https://kimichie29.github.io/Week-6-Laboratory-Assessment-2/
+
 ## Technologies Used
 
 * HTML
